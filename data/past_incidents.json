@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": "C102",
+    "text": "Customer said: Order A101 arrived 4 days late, packaging was squashed. Support replied: Apologized and issued a 10% coupon for the delay."
+  },
+  {
+    "customer_id": "C103",
+    "text": "Customer said: Order A102 dial color was black instead of silver. Support replied: Arranged exchange for silver dial watch."
+  },
+  {
+    "customer_id": "C104",
+    "text": "Customer said: Where is the invoice for chair order A103? Need it for tax. Support replied: Emailed GST invoice PDF."
+  },
+  {
+    "customer_id": "C105",
+    "text": "Customer said: Order A105 right ear cup audio is crackling. Support replied: Initiated 1-year warranty claim replacement."
+  },
+  {
+    "customer_id": "C102",
+    "text": "Customer said: Can I change delivery address for charger order A106? Support replied: Address updated before dispatch."
+  },
+  {
+    "customer_id": "C106",
+    "text": "Customer said: Is webcam order A109 compatible with macOS? Support replied: Confirmed plug-and-play compatibility with macOS."
+  }
+]
