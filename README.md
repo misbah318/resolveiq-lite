@@ -30,7 +30,8 @@ Memory is stored in Hindsight, not in chat history, so it survives a new session
 
 ## Architecture
 
-<img width="1520" height="729" alt="app-screenshot" src="https://github.com/user-attachments/assets/90936f30-03f5-49e1-9043-9454d5353e7c" />
+<img width="556" height="422" alt="architecture" src="https://github.com/user-attachments/assets/23f5f008-1b90-4564-8794-ebe59ad638f2" />
+
 
 
 
