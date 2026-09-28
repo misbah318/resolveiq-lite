@@ -1,0 +1,69 @@
+WITH MEMORY
+QUERY: I still haven't received my replacement.
+REPLY: Hi there! I’m sorry you still haven’t received the replacement for order **A104**. I’ll forward this to our support team right away. Could you please confirm that A104 is the correct order and provide the shipping address you’d like the replacement sent to? Once we have that, we’ll move forward promptly. Thank you for your patience!
+WORDS: 56
+
+WITHOUT MEMORY
+QUERY: I still haven't received my replacement.
+REPLY: I’m sorry to hear the replacement hasn’t arrived yet. Could you please share your order number and the email address used for the purchase? I’ll forward this information to our support team right away so they can investigate and get the replacement to you as soon as possible. Let me know if there’s anything else I can help with!
+WORDS: 59
+
+EXTRA WITH MEMORY
+QUERY: Any update?
+REPLY: We’ve logged your request for a replacement of order **A104**, which arrived damaged. I’ll forward this to our support team right away. Could you please confirm the shipping address you’d like the new item sent to, or let us know if anything else is needed? Once we have that, they’ll move forward with the replacement. Thank you for your patience!
+WORDS: 60
+
+EXTRA WITHOUT MEMORY
+QUERY: Any update?
+REPLY: Hi there! I’d love to help. Could you let me know which order you’re referring to (order number or details) and what you’re looking for an update on? Once I have that, I’ll pass the request to our support team and get back to you as soon as possible. Thank you!
+WORDS: 51
+
+EXTRA WITH MEMORY
+QUERY: Where is my order?
+REPLY: Hi! I see you previously mentioned order **A104**, which arrived damaged and you requested a replacement. Is this the order you’re asking about? If so, I’ll forward your inquiry to our support team to get an update on its location. Please let me know if that’s the correct order or provide the correct order ID, and we’ll take it from there.
+WORDS: 61
+
+EXTRA WITHOUT MEMORY
+QUERY: Where is my order?
+REPLY: I’m happy to help locate your order. Could you please share the order number (or the email address used when you placed it) so I can pass the details to our support team? Once we have that information, they’ll be able to check the status and get back to you promptly. Thank you!
+WORDS: 53
+
+EXTRA WITH MEMORY
+QUERY: I want a refund right now.
+REPLY: I’m sorry to hear you’d like a refund for order A104. Could you please confirm that this is the correct order? I’ll forward your refund request to our support team right away, and they’ll review it and get back to you as soon as possible. Let me know if there’s any additional information you’d like to provide.
+WORDS: 57
+
+EXTRA WITHOUT MEMORY
+QUERY: I want a refund right now.
+REPLY: I’m sorry you’re having trouble. To start a refund, could you please share your order number and the email address used for the purchase? Once I have those details, I’ll forward your request to our support team, and they’ll handle the refund for you. Let me know if there’s anything else I can help with!
+WORDS: 55
+
+EXTRA WITH MEMORY
+QUERY: Give me the tracking number.
+REPLY: I’m sorry, I don’t have the tracking number on hand. I’ll forward your request to our support team, and they’ll get back to you with the details. Just to confirm, are you referring to order A104?
+WORDS: 36
+
+EXTRA WITHOUT MEMORY
+QUERY: Give me the tracking number.
+REPLY: I’m happy to help, but I don’t have a tracking number on hand yet. Could you please share your order ID (or the email you used for the purchase) so I can forward your request to our support team? Once we have those details, they’ll be able to provide the tracking information you need. Thank you!
+WORDS: 56
+
+EXTRA WITH MEMORY
+QUERY: How many days does a replacement take?
+REPLY: We’ll forward your request for a replacement of order A104 to our support team. They’ll let you know the expected turnaround time. Could you please confirm that A104 is the correct order, and provide the best contact email for the follow‑up? Thank you!
+WORDS: 43
+
+EXTRA WITHOUT MEMORY
+QUERY: How many days does a replacement take?
+REPLY: I’m happy to help! The exact time a replacement takes can vary, and I don’t have the specific timeline for your order just yet. If you could share the order number (or confirm which order you’re referring to), I’ll pass the request to our support team and they’ll let you know the expected delivery window. Let me know any details you have, and we’ll get this moving quickly!
+WORDS: 68
+
+EXTRA WITH MEMORY
+QUERY: Was my replacement already shipped?
+REPLY: Hi! Just to confirm, you’re referring to order **A104**, correct? I don’t have the shipment details on hand, but I’ll pass your request to our support team to verify whether the replacement has been sent. Could you please confirm the shipping address we should use for the replacement? Thank you!
+WORDS: 50
+
+EXTRA WITHOUT MEMORY
+QUERY: Was my replacement already shipped?
+REPLY: I’m happy to help! I don’t have the shipment details on hand yet. Could you please share your order or replacement ID so I can forward your request to our support team? Once we have that information, they’ll be able to confirm whether it’s already on its way. Let me know the ID, and we’ll take the next step together.
+WORDS: 60
