@@ -30,7 +30,8 @@ Memory is stored in Hindsight, not in chat history, so it survives a new session
 
 ## Architecture
 
-![Uploading architecture.png…]()
+<img width="1520" height="729" alt="app-screenshot" src="https://github.com/user-attachments/assets/90936f30-03f5-49e1-9043-9454d5353e7c" />
+
 
 
 Flow: Customer message > Streamlit app > Hindsight recall > Groq LLM > Reply > Hindsight retain.
