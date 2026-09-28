@@ -1,0 +1,8 @@
+[
+  {"id": "C101", "name": "Aarav Sharma", "email": "aarav.sharma@example.com", "city": "Mumbai"},
+  {"id": "C102", "name": "Priya Patel", "email": "priya.patel@example.com", "city": "Bengaluru"},
+  {"id": "C103", "name": "Rohan Verma", "email": "rohan.verma@example.com", "city": "Delhi"},
+  {"id": "C104", "name": "Sneha Iyer", "email": "sneha.iyer@example.com", "city": "Chennai"},
+  {"id": "C105", "name": "Vikram Singh", "email": "vikram.singh@example.com", "city": "Hyderabad"},
+  {"id": "C106", "name": "Ananya Das", "email": "ananya.das@example.com", "city": "Kolkata"}
+]
