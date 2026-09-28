@@ -1,0 +1,12 @@
+[
+  {"id": "A101", "customer_id": "C102", "product": "Wireless Earbuds", "price_inr": 2499, "order_date": "2026-01-12", "status": "delivered"},
+  {"id": "A102", "customer_id": "C103", "product": "Smart Fitness Watch", "price_inr": 3999, "order_date": "2026-01-20", "status": "delivered"},
+  {"id": "A103", "customer_id": "C104", "product": "Ergonomic Office Chair", "price_inr": 8499, "order_date": "2026-02-04", "status": "delivered"},
+  {"id": "A104", "customer_id": "C101", "product": "Mechanical Gaming Keyboard", "price_inr": 4500, "order_date": "2026-02-15", "status": "delivered"},
+  {"id": "A105", "customer_id": "C105", "product": "Noise-Cancelling Headphones", "price_inr": 7999, "order_date": "2026-02-28", "status": "delivered"},
+  {"id": "A106", "customer_id": "C102", "product": "USB-C Fast Charger", "price_inr": 1299, "order_date": "2026-03-01", "status": "delivered"},
+  {"id": "A107", "customer_id": "C103", "product": "Bluetooth Portable Speaker", "price_inr": 1999, "order_date": "2026-03-05", "status": "delivered"},
+  {"id": "A108", "customer_id": "C104", "product": "Laptop Stand Aluminum", "price_inr": 1499, "order_date": "2026-03-10", "status": "delivered"},
+  {"id": "A109", "customer_id": "C106", "product": "Webcam 1080p HD", "price_inr": 2799, "order_date": "2026-03-15", "status": "delivered"},
+  {"id": "A110", "customer_id": "C105", "product": "Wireless Mouse RGB", "price_inr": 1199, "order_date": "2026-03-18", "status": "delivered"}
+]
