@@ -1,26 +1,8 @@
 import json
 import streamlit as st
 
-# ---------------------------------------------------------
-# STAND-INS
-# Delete these 3 functions later when memory.py and agent.py
-# are available from the team.
-#
-# Then uncomment:
-# from memory import retain_incident, recall_incidents
-# from agent import generate_reply
-# ---------------------------------------------------------
-
-def recall_incidents(cid, q):
-    return ["(demo) Order A104 arrived damaged; replacement requested."]
-
-
-def generate_reply(cid, q, mem):
-    return "(demo reply) Sorry about order A104, checking your replacement."
-
-
-def retain_incident(cid, text):
-    pass
+from memory import retain_incident, recall_incidents
+from agent import generate_reply
 
 
 # ---------------------------------------------------------
