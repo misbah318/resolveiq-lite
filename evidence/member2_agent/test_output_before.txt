@@ -1,0 +1,69 @@
+WITH MEMORY
+QUERY: I still haven't received my replacement.
+REPLY: I’m sorry you still haven’t received the replacement for order **A104**. I’ll look into its status right away. Could you please confirm the shipping address we should use (or let me know if anything has changed)? Once I have that, I’ll arrange for the replacement to be sent and share the next‑step details with you. Thank you for your patience!
+WORDS: 60
+
+WITHOUT MEMORY
+QUERY: I still haven't received my replacement.
+REPLY: I’m sorry you’re still waiting for your replacement. Could you please share the order or replacement ID, and the shipping address we have on file? Once I have that, I’ll check the status and arrange for it to be resent or escalated right away. Thank you for your patience!
+WORDS: 49
+
+EXTRA WITH MEMORY
+QUERY: Any update?
+REPLY: Hi! I’m looking into the replacement for your order A104. To move forward, could you please send us a photo of the damage and confirm the shipping address you’d like the new item sent to? Once we have those details, we’ll arrange the replacement and email you the tracking information. Thank you for your patience!
+WORDS: 55
+
+EXTRA WITHOUT MEMORY
+QUERY: Any update?
+REPLY: Hi there! I’d love to check on that for you. Could you please share your order number or a brief description of the issue you’re following up on? Once I have that, I’ll look into the latest status and let you know the next steps. Thank you!
+WORDS: 47
+
+EXTRA WITH MEMORY
+QUERY: Where is my order?
+REPLY: Hi! I see you mentioned order A104 arrived damaged and you’d like a replacement. Are you checking on the status of that replacement shipment? If so, could you confirm the shipping address or any updated contact details? Once I have that, I’ll look up the latest tracking info for you. Thanks for your patience!
+WORDS: 54
+
+EXTRA WITHOUT MEMORY
+QUERY: Where is my order?
+REPLY: Hi there! I’d love to help track your order. Could you please share your order number (or the email you used when placing it)? Once I have that, I can check the status and let you know the next steps. Thank you!
+WORDS: 42
+
+EXTRA WITH MEMORY
+QUERY: I want a refund right now.
+REPLY: I’m sorry the damaged order A104 caused you trouble. I can start a refund for you right away. Could you please confirm the payment method you’d like the refund returned to (or the email address associated with the purchase) so we can process it promptly? Once I have that, I’ll submit the request and email you a confirmation. Thank you for your patience!
+WORDS: 63
+
+EXTRA WITHOUT MEMORY
+QUERY: I want a refund right now.
+REPLY: I’m sorry you’re having trouble. Could you please share your order number and a brief reason for the refund request? Once I have those details, I’ll start the review and let you know the next steps. Thank you for your patience!
+WORDS: 41
+
+EXTRA WITH MEMORY
+QUERY: Give me the tracking number.
+REPLY: I’m sorry your order A104 arrived damaged. We’ll arrange a replacement right away and will email you the tracking number as soon as it ships. Could you please confirm the shipping address we should use? Once we have that, we’ll get the new item on its way. Thank you for your patience!
+WORDS: 52
+
+EXTRA WITHOUT MEMORY
+QUERY: Give me the tracking number.
+REPLY: Sure thing! Could you please share your order number (or the email address you used when placing the order)? Once I have that, I’ll locate your shipment and provide the tracking number right away. Thank you!
+WORDS: 36
+
+EXTRA WITH MEMORY
+QUERY: How many days does a replacement take?
+REPLY: Hi! For order A104, once we confirm the replacement we’ll ship it within 2‑3 business days, and it typically arrives in 3‑5 business days. So you can expect the whole process to take about 5‑8 days. Could you please confirm the shipping address (or let us know if you’d like it sent elsewhere) so we can move forward?
+WORDS: 58
+
+EXTRA WITHOUT MEMORY
+QUERY: How many days does a replacement take?
+REPLY: A replacement usually ships within 1‑2 business days after we approve it, and delivery takes about 5‑7 business days depending on your location. If you’d like us to start the process, could you share your order number and the item you need replaced? I’ll get everything moving right away.
+WORDS: 49
+
+EXTRA WITH MEMORY
+QUERY: Was my replacement already shipped?
+REPLY: Hi! I’m checking on the replacement for your damaged order A104. I’ll look up the shipment status right away. Could you please confirm the shipping address we should use, or let me know if anything has changed since your original order? Once I have that, I’ll be able to tell you whether it’s already on its way. Thank you for your patience!
+WORDS: 62
+
+EXTRA WITHOUT MEMORY
+QUERY: Was my replacement already shipped?
+REPLY: Hi there! I’d be happy to check on that for you. Could you please share your order or replacement ID, or the email address you used for the purchase? Once I have that, I’ll look up the shipment status and let you know the next steps. Thank you!
+WORDS: 48
