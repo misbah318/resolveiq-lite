@@ -11,7 +11,7 @@ the customer's earlier issues and uses them to answer the new message, even in a
 ## Demo
 
 - Demo video: [ADD YOUTUBE LINK LATER]
-- Screenshot: [ADD LATER: images/app-screenshot.png]
+- Screenshot: <img width="1520" height="729" alt="app-screenshot" src="https://github.com/user-attachments/assets/2649c9ae-4fd7-4af3-9f6d-0c2391e0e947" />
 
 ## The problem
 
@@ -30,7 +30,8 @@ Memory is stored in Hindsight, not in chat history, so it survives a new session
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Uploading architecture.png…]()
+
 
 Flow: Customer message > Streamlit app > Hindsight recall > Groq LLM > Reply > Hindsight retain.
 
