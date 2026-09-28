@@ -84,4 +84,4 @@ All customers, orders, and past incidents are fictional and seeded for the demo.
 
 ## Team
 
-[Ms.Misbah,Ms.Heena Meheraj,Ms.Muhammad Shazia,Ms.Afreen Firdose,Ms.Jakka Ankali]
+[Ms.Misbah,Ms.Heena Meheraj,Ms.Muhammad Shazia,Ms.Afreen Firdose,Ms.Jakka Anjali]
