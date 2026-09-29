@@ -10,7 +10,7 @@ the customer's earlier issues and uses them to answer the new message, even in a
 
 ## Demo
 
-- Demo video: [ADD YOUTUBE LINK LATER]
+- Demo video: [https://youtu.be/iumS_snYNBs]
 - Screenshot: <img width="1920" height="1020" alt="memory-on png" src="https://github.com/user-attachments/assets/c7471ef7-7840-48f5-aced-30192dcd71c3" />
 
 ## The problem
