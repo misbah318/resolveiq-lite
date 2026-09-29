@@ -11,7 +11,7 @@ the customer's earlier issues and uses them to answer the new message, even in a
 ## Demo
 
 - Demo video: [ADD YOUTUBE LINK LATER]
-- Screenshot: <img width="1520" height="729" alt="app-screenshot" src="https://github.com/user-attachments/assets/2649c9ae-4fd7-4af3-9f6d-0c2391e0e947" />
+- Screenshot: <img width="1920" height="1020" alt="memory-on png" src="https://github.com/user-attachments/assets/c7471ef7-7840-48f5-aced-30192dcd71c3" />
 
 ## The problem
 
