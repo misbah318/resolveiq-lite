@@ -48,7 +48,8 @@ still there, which proves this is persistent memory and not chat history.
 
 <img width="1600" height="960" alt="hindsight-dashboard" src="https://github.com/user-attachments/assets/70b99509-c741-4d92-bc83-7801fdd65079" />
 
-- Memory OFF: "I still haven't received my replacement" -> [Memory is OFF for this message]
+- Memory OFF: "I still haven't received my replacement" -> [Memory is OFF for this message]<img width="1920" height="1020" alt="memory-off png" src="https://github.com/user-attachments/assets/e2c2acd9-875d-4833-95ce-fa99fd89f237" />
+
 - Memory ON: same message -> [The customer has not received their replacement item. When: 2026-09-28 | Involving: customer
 
 Customer has not received their replacement order. When: 2026-09-28 Involving: customer
@@ -59,7 +60,8 @@ Customer's order A104 arrived damaged, they requested a replacement, and as of S
 
 Assistant is escalating the issue of the missing replacement for order A104 to the support team for review. When: 2026-09-28 Involving: assistant, customer | Customer reported non-receipt of replacement.
 
-Assistant escalated the issue of the missing replacement for order A104 to the support team for review. When: 2026-09-28 | Involving: Assistant, customer | Customer reported not receiving]
+Assistant escalated the issue of the missing replacement for order A104 to the support team for review. When: 2026-09-28 | Involving: Assistant, customer | Customer reported not receiving]<img width="1920" height="1020" alt="memory-on png" src="https://github.com/user-attachments/assets/520a4fe2-0eed-431f-a498-a738262e9689" />
+
 
 ## 8. Files involved
 
